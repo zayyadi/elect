@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+node_modules/*
+.bin/
+
+.env
+# Database files
+*.sqlite3
+*.db
+# Log files
+*.log
+# Coverage reports
+htmlcov/
+.python-version
+.coverage
+uv.lock
+staticfiles/
+media/
+# Django migrations
+migrations/
